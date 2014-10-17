@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -35,3 +36,8 @@ dwsync.xml
 intermediate
 publish
 .idea
+=======
+/bootstrap/compiled.php
+.env.*.php
+.env.php
+>>>>>>> f9efbb0be20bb3bdad2452d5df35dc7b1f245398
